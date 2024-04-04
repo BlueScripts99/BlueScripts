@@ -16,3 +16,7 @@ install Lua Editor
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BlueScripts99/BlueScripts/main/Editor.lua"))()
 ```
+install Tp Gui
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BlueScripts99/BlueScripts/main/TpGui.lua"))()
+```
