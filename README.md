@@ -10,4 +10,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/BlueScripts99/BlueScr
 ```
 Install Gui Coordinates
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BlueScripts99/BlueScripts/main/GuiCoordinates.lua"))()```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BlueScripts99/BlueScripts/main/GuiCoordinates.lua"))()
+```
