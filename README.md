@@ -6,4 +6,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/BlueScripts99/BlueScr
 ```
 Install tween to player
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BlueScripts99/BlueScripts/main/TweenToPlayer.lua"))()```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BlueScripts99/BlueScripts/main/TweenToPlayer.lua"))()
+```
