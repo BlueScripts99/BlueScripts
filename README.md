@@ -20,3 +20,7 @@ install Tp Gui
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BlueScripts99/BlueScripts/main/TpGui.lua"))()
 ```
+install HitBox And Esp Name 
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BlueScripts99/BlueScripts/main/HitboxAndEspName.lua"))()
+```
