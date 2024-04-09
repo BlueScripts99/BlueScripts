@@ -1,5 +1,9 @@
 # Blue Scripts🔥⚙️
 
+install jumpPowerGui
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BlueScripts99/BlueScripts/main/jumpPowerGui.lua"))()
+```
 
 Install tween to player
 ```lua
